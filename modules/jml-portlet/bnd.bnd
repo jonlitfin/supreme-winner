@@ -1,0 +1,4 @@
+Bundle-Name: jml-portlet
+Bundle-SymbolicName: jml.portlet
+Bundle-Version: 1.0.0
+Export-Package: jml.portlet.constants}
