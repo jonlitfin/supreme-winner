@@ -1,0 +1,9 @@
+Bundle-Name: jml-service-builder-api
+Bundle-SymbolicName: jml.service.builder.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	jml.service.builder.exception,\
+	jml.service.builder.model,\
+	jml.service.builder.service,\
+	jml.service.builder.service.persistence
+-includeresource: META-INF/service.xml=../jml-service-builder-service/service.xml
